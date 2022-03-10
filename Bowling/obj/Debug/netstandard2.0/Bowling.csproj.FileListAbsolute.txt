@@ -1,0 +1,10 @@
+C:\workspace\sysapp_csharp\assignments\2\Bowling\Bowling\bin\Debug\netstandard2.0\Bowling.deps.json
+C:\workspace\sysapp_csharp\assignments\2\Bowling\Bowling\bin\Debug\netstandard2.0\Bowling.dll
+C:\workspace\sysapp_csharp\assignments\2\Bowling\Bowling\bin\Debug\netstandard2.0\Bowling.pdb
+C:\workspace\sysapp_csharp\assignments\2\Bowling\Bowling\obj\Debug\netstandard2.0\Bowling.AssemblyInfoInputs.cache
+C:\workspace\sysapp_csharp\assignments\2\Bowling\Bowling\obj\Debug\netstandard2.0\Bowling.AssemblyInfo.cs
+C:\workspace\sysapp_csharp\assignments\2\Bowling\Bowling\obj\Debug\netstandard2.0\Bowling.csproj.CoreCompileInputs.cache
+C:\workspace\sysapp_csharp\assignments\2\Bowling\Bowling\obj\Debug\netstandard2.0\Bowling.dll
+C:\workspace\sysapp_csharp\assignments\2\Bowling\Bowling\obj\Debug\netstandard2.0\Bowling.pdb
+C:\workspace\sysapp_csharp\assignments\2\Bowling\Bowling\obj\Debug\netstandard2.0\Bowling.csproj.AssemblyReference.cache
+C:\workspace\sysapp_csharp\assignments\2\Bowling\Bowling\obj\Debug\netstandard2.0\Bowling.GeneratedMSBuildEditorConfig.editorconfig

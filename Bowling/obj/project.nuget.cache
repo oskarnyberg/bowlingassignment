@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YyoUEG3KtMIfkkroEDBN7f4T3UgqLQxw9ftDJxPKHG1IAIB2AZMr3VAldOM1zz9/Z6KSEGZG4mENkSPNQ6ACTA==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\sysapp_csharp\\assignments\\2\\Bowling\\Bowling\\Bowling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\OskarNyberg\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
